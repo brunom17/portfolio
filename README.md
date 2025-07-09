@@ -13,7 +13,7 @@ Experienced in designing, developing, and automating software deployment process
 - Features: Q-value updates, Epsilon-greedy strategy
 - Technologies: Reinforcement Learning, Game Theory
 
-[Demo](https://github.com/brunom17/portfolio/tree/main/nim) | [Code](https://github.com/brunom17/portfolio/tree/main/nim)
+[Show me](https://github.com/brunom17/portfolio/tree/main/nim) 
 
 ---
 ### Traffic Sign Classifier with CNN
@@ -23,7 +23,7 @@ Experienced in designing, developing, and automating software deployment process
 - Features: Convolutional layers, data preprocessing pipeline
 - Technologies: TensorFlow, Keras, Computer Vision
 
-[Demo](https://github.com/brunom17/portfolio/tree/main/traffic) | [Code](https://github.com/brunom17/portfolio/tree/main/traffic)
+[Show me](https://github.com/brunom17/portfolio/tree/main/traffic) | 
 
 ---
 ### Crossword Puzzle Generator
@@ -33,7 +33,7 @@ Experienced in designing, developing, and automating software deployment process
 - Features: Structure parsing, overlap detection
 - Technologies: Backtracking, Constraint satisfaction
 
-[Demo](https://github.com/brunom17/portfolio/tree/main/crossword) | [Code](https://github.com/brunom17/portfolio/tree/main/crossword)
+[Show me](https://github.com/brunom17/portfolio/tree/main/crossword)
 
 ---
 ### Shopping Intent Classifier
@@ -43,7 +43,7 @@ Experienced in designing, developing, and automating software deployment process
 - Features: Data analysis, distance-based classification
 - Technologies: Scikit-learn, NumPy, Pandas
 
-[Demo](https://github.com/brunom17/portfolio/tree/main/shopping) | [Code](https://github.com/brunom17/portfolio/tree/main/shopping)
+[Show me](https://github.com/brunom17/portfolio/tree/main/shopping) 
 
 ---
 

@@ -23,7 +23,7 @@ Experienced in designing, developing, and automating software deployment process
 - Features: Convolutional layers, data preprocessing pipeline
 - Technologies: TensorFlow, Keras, Computer Vision
 
-[Show me](https://github.com/brunom17/portfolio/tree/main/traffic) | 
+[Show me](https://github.com/brunom17/portfolio/tree/main/traffic) 
 
 ---
 ### Crossword Puzzle Generator
